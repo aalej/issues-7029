@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "PROJECT_ID": {
+      "hosting": {
+        "app": [
+          "PROJECT_ID"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "PROJECT_ID"
+  }
+}
